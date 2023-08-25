@@ -1,0 +1,1 @@
+A vanilla javascript calculator created as part of The Odin Project
