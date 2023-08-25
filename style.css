@@ -37,7 +37,7 @@ body {
     flex-direction: column;
     justify-content: space-between;
     align-items: flex-end;
-    background-color:#91be87;
+    background-color:#9cbb95;
     border-radius: 5px;
     padding: 5px;
     box-sizing: border-box;
@@ -47,21 +47,21 @@ body {
 }
 
 .current-input {
-    color: #240041;
+    color: #21003b;
     font-size: 0.9em;
     text-align: left;
     width: 100%;
 }
 
 .result-output {
-    color: rgb(50, 45, 89);
+    color: #21003b;
     font-size: 0.9em;
     text-align: right;
     width: 100%;
 }
 
 button {
-    color: #fff;
+    color: #ffffff;
     font-family: 'Roboto', sans-serif;
     font-size: 1.5em;
     background-color: #444;
@@ -75,15 +75,15 @@ button {
 button.clear,
 button.equal {
     grid-column: span 2;
-    background-color: #EE4266;
+    background-color: #9049ee;
 }
 
 button.clear:hover {
-    background-color: #f46e8b;
+    background-color: #8269e8;
 }
 
 button:hover {
-    background-color: #f46e8b;
+    background-color: #8c74ef;
 }
 
 button.number {
@@ -91,7 +91,7 @@ button.number {
 }
 
 button.number:hover {
-    background-color: #939393;
+    background-color: #a79ab7;
 }
 
 button.answer {
@@ -99,17 +99,17 @@ button.answer {
 }
 
 button.answer:hover {
-    background-color: #f46e8b;
+    background-color: #9049ee;
 }
 
 button.clear,
 button.delete {
-    background-color: #EE4266;
+    background-color: #9049ee;
 }
 
 button.clear:hover,
 button.delete:hover {
-    background-color: #f46e8b;
+    background-color: #8c74ef;
 }
 
 /* Adjustments for smartphones and smaller screens */
