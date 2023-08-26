@@ -127,7 +127,7 @@ button.delete:hover {
         max-width: 100vw;
     }
     button {
-        font-size: 1.3em; /* Adjust accordingly */
+        font-size: 1em; /* Adjust accordingly */
     }
     
     body {
@@ -161,12 +161,10 @@ button.delete:hover {
     .calculator {
         margin-bottom: unset;
         margin: auto;
+        max-width: 100vw;   
         }
-
-    .body {
-        width: 50%;
-        /* adjust based on preference */
-        transform: scale(0.5);
-        /* scales down the calculator to 90% of its original size */
-    }
+    
+    button {
+        font-size: 0.7em; /* Adjust accordingly */
+        }
 }
