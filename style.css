@@ -144,7 +144,7 @@ button.delete:hover {
 }
 
 /* Adjustments for smartphones and smaller screens */
-@media (max-width: 540px) and (orientation: landscape){
+@media (max-width: 540px) {
     .calculator {
         margin-bottom: unset;
         margin: auto;
@@ -158,7 +158,7 @@ button.delete:hover {
 
 }
 
-@media (max-width: 280px) and (orientation: landscape) {
+@media (max-width: 280px) {
     .calculator {
         margin-bottom: unset;
         margin: auto;
