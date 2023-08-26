@@ -125,6 +125,7 @@ button.delete:hover {
         margin-block-end: auto;
         margin-inline-end: auto;
         max-width: 100vw;
+        padding: 10px;
     }
 
     body {
@@ -145,6 +146,7 @@ button.delete:hover {
         margin-bottom: unset;
         margin: auto;
         max-width: 100vw;   
+        padding: 5px;
         }
 }
 
