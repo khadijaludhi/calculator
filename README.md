@@ -1,5 +1,6 @@
 # JavaScript Calculator Project
 Try it out here: (https://khadijaludhi.github.io/calculator/)
+
 A vanilla JavaScript calculator created as part of The Odin Project.
 
 Embarking on my coding journey, I chose a calculator as my first project. It turned out to be an enlightening experience, challenging me in various ways and providing numerous opportunities to learn and grow.
