@@ -1,5 +1,5 @@
 # JavaScript Calculator
-**Play here:** [https://khadijaludhi.github.io/calculator/](https://khadijaludhi.github.io/calculator/)
+**Try it out here:** [https://khadijaludhi.github.io/calculator/](https://khadijaludhi.github.io/calculator/)
 
 A vanilla JavaScript calculator created as part of The Odin Project.
 
